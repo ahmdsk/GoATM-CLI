@@ -1,6 +1,6 @@
 # ATM Simulator in Golang
 
-### To run this program
+### To run this programs
 ```
 git clone https://github.com/ahmdsk/GoATM-CLI/
 cd GoATM-CLI

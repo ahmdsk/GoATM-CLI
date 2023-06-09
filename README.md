@@ -43,6 +43,6 @@ Your balance is 2
 
 ### To Check Balance
 ```
-Your balance is 1000
+Your balance is 10000
 ```
 
